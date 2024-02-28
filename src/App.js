@@ -1,6 +1,9 @@
 import "./App.css";
 import { useState } from 'react'
-
+//      feature ideas
+// change move descriptions to be more description: include placement location and player
+// if cats game change color
+// 
 function Square({ value, onSquareClick, winClass}) {
   
   return (
